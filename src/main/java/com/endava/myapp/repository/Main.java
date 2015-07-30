@@ -6,6 +6,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		UserRepository rep = new UserRepository();
 		System.out.println(rep.getAllUsers());
+		//git test
 	}
 
 }
